@@ -5,8 +5,10 @@
 
 | Temas | Tipo |
 |-------|------|
-|1.PHP  |C     | 
-|2.POO  |B     | 
+|1.PHP  |PHP Orientado a objetos| 
+|2.POO  |Objetos de Datos en PHP| 
+|3.MVC  |Modelo Vista Controlador en PHP|
+|4.Laravel|Framework en PHP|
 
 ![Hollow](http://tinyurl.com/wbhphvea)
 
